@@ -3,16 +3,19 @@
 ## My name is Gustavo Alves, a brazilian web developer.
 
 ### 👨🏻‍💻  About Me
-- 🔭 I’m currently working on a personal project <strong>eCommerce-2.0</strong>
+- 🔭 I’m currently working on a personal project <strong><a href="https://github.com/saymow/eCommerce-2.0">eCommerce-2.0</a></strong>.
 - 🌱 I’m currently learning SSR, TDD, Orms, Docker, NextJS.
 - 🤔 I’m looking for help with cookies.
-- ⚡ Fun fact: i'm looking for jobs opportunities.
+- ⚡ Fun fact: <strong> i'm looking for jobs opportunities.</strong>
 
 ### :mag: Contact me
 
 <a href="https://www.linkedin.com/in/gustavo-alves-saymow/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://gustavo-alves.netlify.app">
 <img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+
+<br>
+
 
 ### 🛠  Tech Stack
 
