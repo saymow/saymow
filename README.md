@@ -2,15 +2,11 @@
 
 ## My name is Gustavo Alves, a brazilian web developer.
 
-<br>
-
 ### 👨🏻‍💻  About Me
 - 🔭 I’m currently working on a personal project <strong>eCommerce-2.0</strong>
 - 🌱 I’m currently learning SSR, TDD, Orms, Docker, NextJS.
 - 🤔 I’m looking for help with cookies.
 - ⚡ Fun fact: i'm looking for jobs opportunities.
-
-<br>
 
 ### :mag: Contact me
 
@@ -18,10 +14,7 @@
 <a href="https://gustavo-alves.netlify.app">
 <img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 
-<br>
-
 ### 🛠  Tech Stack
-
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
