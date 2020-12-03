@@ -1,11 +1,11 @@
 # Hi there 👋
 
-## My name is Gustavo Alves, a brazilian web developer.
+## My name is Gustavo Alves, i'm a brazilian web developer.
 
 ### 👨🏻‍💻  About Me
 - 🔭 I’m currently working on a personal project <strong><a href="https://github.com/saymow/eCommerce-2.0">eCommerce-2.0</a></strong>.
-- 🌱 I’m currently learning SSR, TDD, Orms, Docker, NextJS.
-- 🤔 I’m looking for help with cookies.
+- 🌱 I’m currently learning React-native, SSR, TDD, Orms, Docker, NextJS.
+- 🤔 I’m looking for help with NextJS authentication.
 - ⚡ Fun fact: <strong> i'm looking for jobs opportunities.</strong>
 
 ### :mag: Contact me
