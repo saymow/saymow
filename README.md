@@ -3,8 +3,8 @@
 ## My name is Gustavo Alves, i'm a brazilian web developer.
 
 ### 👨🏻‍💻  About Me
-- 🔭 I’m currently working at <a href="https://zukk.com.br/">Zukk</a>. 
-- 🌱 I’m currently learning React-native, SSR, TDD, Orms, Docker, NextJS.
+- 🔭 I’m currently working as frontend developer at <a href="https://zukk.com.br/">Zukk</a>. Though, also working in side projects and freelancing. 
+- 🌱 I’m currently learning TDD, Clean Architecture, SOLID, Orms and Docker.
 - 🤔 I’m looking for help with NextJS authentication.
 
 ### :mag: Contact me
